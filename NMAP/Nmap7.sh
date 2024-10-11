@@ -1,0 +1,1 @@
+# ping scan, checks which hosts in the network are up , uses nmap -sn
